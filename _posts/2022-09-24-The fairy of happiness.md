@@ -2,9 +2,9 @@
 layout: post
 title: The fairy of happiness
 subtitle: A story about change
-cover-img: /assets/img/
-thumbnail-img: /assets/img/
-share-img: /assets/img/
+
+
+
 tags: [Story]
 ---
 
