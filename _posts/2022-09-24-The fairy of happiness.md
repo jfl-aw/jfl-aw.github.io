@@ -1,14 +1,14 @@
 ---
 layout: post
-title: The fairy of happiness 2
-subtitle: Excerpt Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+title: The fairy of happiness
+subtitle: A story about change
+cover-img: /assets/img/
+thumbnail-img: /assets/img/
+share-img: /assets/img/
 tags: [Story]
 ---
 
-# The fairy of happiness
+
 
 I’ve always took care of my garden, it was what I liked the most about my home. I liked the shade the oak provided to the house in the sunny Summer days, the fragrance from the flowers during Spring time, the Autumn melody the fallen leaves created and even during the Winter I could look out of the window and feel like part of me was connected to that nature that I helped flourish. This nature made me feel magical. No. It was nature itself that was magical. Nature existed in a magical way, growing in places where no one expected it to grow, creating aromas that don’t seem possible to be created and teem with life in places where there shouldn’t be any. At least that’s how I felt, because I mean, I had never seen a fairy before. I didn’t even believe in Santa Claus, much less fairies. But that’s what happened, suddenly, without any warning whatsoever. I was simply looking out of the window as someone says behind me:
 
