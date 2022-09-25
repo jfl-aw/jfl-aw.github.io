@@ -1,8 +1,9 @@
-
 ---
 layout: post
 title: Social Stabilization
-subtitle:
+subtitle: 
+
+
 
 tags: [Story]
 ---
