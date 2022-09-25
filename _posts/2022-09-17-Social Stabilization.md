@@ -1,3 +1,5 @@
+
+---
 layout: post
 title: Social Stabilization
 
@@ -5,6 +7,7 @@ title: Social Stabilization
 
 
 tags: [Story]
+---
 
 \- ....phase 1
 
