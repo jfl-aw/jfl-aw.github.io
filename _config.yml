@@ -10,7 +10,9 @@
 ############################
 
 # Name of website
-title: Still Waters
+title: <span style="color:green;font-weight:700;font-size:20px">
+Still Waters
+</span>
 
 # Your name to show in the footer
 author: JFL
